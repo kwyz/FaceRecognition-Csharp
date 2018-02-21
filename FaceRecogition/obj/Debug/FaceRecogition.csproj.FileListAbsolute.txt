@@ -1,0 +1,11 @@
+D:\Licenta\FaceRecogition\FaceRecogition\bin\Debug\FaceRecogition.exe.config
+D:\Licenta\FaceRecogition\FaceRecogition\bin\Debug\FaceRecogition.exe
+D:\Licenta\FaceRecogition\FaceRecogition\bin\Debug\FaceRecogition.pdb
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\FaceRecogition.Properties.Resources.resources
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\FaceRecogition.csproj.GenerateResource.Cache
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\FaceRecogition.csproj.CoreCompileInputs.cache
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\FaceRecogition.exe
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\FaceRecogition.pdb
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\FaceRecogition.csprojResolveAssemblyReference.cache
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\LiveRecognition.Form1.resources
+D:\Licenta\FaceRecogition\FaceRecogition\obj\Debug\LiveRecognition.InputName.resources
